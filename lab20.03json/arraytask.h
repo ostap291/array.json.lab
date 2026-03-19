@@ -5,7 +5,7 @@
 #include <fstream>
 #include <cstdlib>
 #include <ctime>
-#include "json.hpp" // Обов'язкова бібліотека nlohmann з GitHub
+#include "json.hpp"
 
 using namespace std;
 using json = nlohmann::json;
