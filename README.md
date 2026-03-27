@@ -20,3 +20,4 @@
 - Бібліотека [JSON for Modern C++](https://github.com/nlohmann/json)
 
 Остап Онуфрик ПМА-11
+// ФІНАЛЬНА ВЕРСІЯ 2.1
